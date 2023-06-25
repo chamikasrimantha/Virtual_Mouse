@@ -1,0 +1,15 @@
+First Of All ,
+
+On your PyCharm IDE go to file >> Settings.
+
+
+Next it will show your project name. Under your project name click on Python Intepreter and click on Plus icon.
+(There is a image already uploaded to this repositary. Check it out. It will help you to find the Plus Icon)
+
+
+Finally install the all packages mention below :
+
+ opencv-python
+ mediapipe
+ pyautoGUI
+ protobuf (3.20.0 - specify version)
